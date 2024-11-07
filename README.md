@@ -14,4 +14,4 @@
 
 ## Running the Scripts
 1. Run Webex Integration Script (`webexTeamsAPI.py`)
-2. Run Faker Data Generation (`fakeProfiles.py` & `fakeTransaction.py`)
+2. Run Faker Data Generation (`fakeProfiles.py` and `fakeTransaction.py`)
